@@ -1,0 +1,6 @@
+{
+  "dim_customer": 2,
+  "customer_crosswalk": 3,
+  "fact_order": 0,
+  "exceptions": 3
+}

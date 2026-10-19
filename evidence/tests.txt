@@ -1,0 +1,10 @@
+test_crm_survives (test_mastering.MasteringTests.test_crm_survives) ... ok
+test_golden_and_crosswalk (test_mastering.MasteringTests.test_golden_and_crosswalk) ... ok
+test_missing_identity_held (test_mastering.MasteringTests.test_missing_identity_held) ... ok
+test_shared_email_held (test_mastering.MasteringTests.test_shared_email_held) ... ok
+test_stable_identity (test_mastering.MasteringTests.test_stable_identity) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.001s
+
+OK
